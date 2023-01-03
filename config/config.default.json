@@ -1,0 +1,8 @@
+{
+    "api": {
+        "BASE_URL": "http://localhost:3000/broker/post/"
+    },
+    "homepage": {
+        "HOME_PAGE": "https://solar-sistemas.gitlab.io/uba.monorepo.proyect/"
+    }
+}
